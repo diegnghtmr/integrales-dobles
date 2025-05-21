@@ -84,10 +84,6 @@ Once you have installed the dependencies, you can run the application:
     ```
     This should open the GUI window where you can interact with the calculator.
 
-## 🖼️ Screenshots (Coming Soon!)
-
-*(Here you could add some screenshots of the application in action to make the README even more attractive. For example: the main interface, a surface plot, a partition plot).*
-
 ## 🧠 How It Works
 
 The core of the calculation lies in the `calcular_volumen_riemann` function. This function takes the mathematical function f(x,y), the integration limits, and the number of partitions (nx, ny) as input. It then divides the integration region into nx * ny rectangles.
