@@ -53,7 +53,6 @@ Follow these steps to get the project running on your local machine:
     git clone https://github.com/diegnghtmr/integrales-dobles.git
     cd integrales-dobles
     ```
-    *(Note: Replace the URL if your repository is in a different location).*
 
 2.  **Create and activate a virtual environment** (recommended):
     * Using `venv`:
